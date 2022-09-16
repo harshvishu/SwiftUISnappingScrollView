@@ -13,7 +13,7 @@ let package = Package(
     platforms: [
         .iOS(.v13)
 //        .macCatalyst(.v14),
-//        .macOS(.v11),
+       .macOS(.v10_15),
 //        .tvOS(.v14),
 //        .watchOS(.v7)
     ],
